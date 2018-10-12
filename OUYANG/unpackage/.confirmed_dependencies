@@ -1,0 +1,53 @@
+{
+	"index.html": {
+		"refer": [
+			"index-menu.html",
+			"examples/guide.html",
+			"examples/info.html",
+			"examples/ajax.html",
+			"examples/dialog.html",
+			"examples/tableviews.html",
+			"examples/list-triplex-row.html",
+			"examples/tableviews-with-swipe.html",
+			"examples/media-list.html",
+			"examples/offcanvas-drag-right-plus-main.html",
+			"examples/offcanvas-drag-down.html",
+			"examples/offcanvas-drag-left-plus-main.html",
+			"examples/popovers.html",
+			"examples/pullrefresh_main.html",
+			"examples/pullrefresh.html",
+			"examples/pullrefresh_with_tab.html",
+			"examples/ad.html",
+			"examples/radio.html",
+			"examples/clouddb_wilddog.html",
+			"examples/login.html",
+			"examples/best-practices/list-to-detail/listview.html",
+			"examples/imageviewer-native.html",
+			"examples/imageviewer.html",
+			"examples/indexed-list-select.html"
+		]
+	},
+	"examples/offcanvas-drag-right-plus-main.html": {
+		"refer": [
+			"examples/offcanvas-drag-right-plus-menu.html"
+		]
+	},
+	"examples/offcanvas-drag-left-plus-main.html": {
+		"refer": [
+			"examples/offcanvas-drag-left-plus-menu.html"
+		]
+	},
+	"examples/pullrefresh_main.html": {
+		"resources": [
+			"examples/pullrefresh_sub.html"
+		],
+		"refer": [
+			"examples/pullrefresh_sub.html"
+		]
+	},
+	"examples/best-practices/list-to-detail/listview.html": {
+		"refer": [
+			"examples/best-practices/list-to-detail/detail.html"
+		]
+	}
+}
